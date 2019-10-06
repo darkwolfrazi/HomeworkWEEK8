@@ -2,16 +2,17 @@ body {
 	background-color: #0414fd;
 	color: rgb(12, 12, 12);
 	font-size: 18px;
-	padding: 1em 8em;
+	padding: 8em;
 }
 
-h1, main {
-	margin: 1.5em;
-	padding: 1em;
+main {
+	margin: .25em;
+	padding: .25em;
 }
 
 header {
 	text-align: center;
+	font-size: 40px;
 }
 
 a:link, a:visited, a:active {
@@ -34,13 +35,13 @@ table td {
 	background-color: #dd0000;
 	border: 1px solid #000000;
 	color: #ffaa50;
-	margin: 0;
-	padding: .5em;
+	margin: .50em;
+	padding: .50em;
 }
 
 table tr {
-	margin: 0;
-	padding: 0;
+	margin: .50em;
+	padding: .50em;
 }
 
 .large-text {
